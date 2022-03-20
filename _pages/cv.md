@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * M.A. in Economics, *Yonsei University*, **Mar 2022 - Present**
-* B.A. in Ecnomics,, Applied Statistics and Communications (Triple Major) *Yonsei University*, **Mar 2015 - Feb 2022**
+* B.A. in Economics, Applied Statistics and Communications (Triple Major) *Yonsei University*, **Mar 2015 - Feb 2022**
 * Visiting Student in *Harvard University (Summer School)* **Summer 2021**
 * Exchange Student in *New York University*, **Spring 2019**
 
