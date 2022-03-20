@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<br />
-[**Full CV**][www.youtube.com]
+[**Full CV**](www.youtube.com)
 <br />
 
 Education
