@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-**Hyoung Chul Kim**
-Department of Economics
-Daewoo Hall 601, Yonsei University
-Seoul, Republic of Korea
+**Hyoung Chul Kim** 
+
+Department of Economics 
+
+Daewoo Hall 601, Yonsei University 
+
+Seoul, Republic of Korea 
 
 I am an M.A. student in the Department of Economics at Yonsei University. 
 
