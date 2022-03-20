@@ -14,7 +14,7 @@ Department of Economics <br />
 Daewoo Hall 601, Yonsei University <br /> 
 Seoul, Republic of Korea  <br />
  <br />
-I am an M.A. student in the Department of Economics at Yonsei University. 
+*I am an M.A. student in the Department of Economics at Yonsei University.*
 
 Research Interests
 ======
