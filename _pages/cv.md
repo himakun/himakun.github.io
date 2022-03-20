@@ -35,32 +35,32 @@ Research experience
 * *Jan 2022 - Present*: Research Assistant
   * Yonsei University
   * 
-  * Supervisor: Professor Seung Hoon Lee
+  * Supervisor: Professor Seung Hoon Lee <br />
 
 
 * *Apr 2022 - Present*: Research Assistant
   * Yonsei University
   * Assisted in literature review and references for the book:
-  * Supervisor: Dr. Sang Woo Yang
+  * Supervisor: Dr. Sang Woo Yang <br />
 
 
 * *Jun 2021 - Jan 2022*: Research Assistant
   * Yonsei University
   * Field Research Team on analyzing Community­Driven­Development(CDD) in 1970s South Korea
   * Participated in building and preprocessing DB of local county micro­data on CDD in 1970s
-  * Supervisor: Ph.D student Boo Kang Seol
+  * Supervisor: Ph.D student Boo Kang Seol <br />
 
 
 * *Mar 2021 - Present*: Research Assistant
   * Yonsei University
   * 
-  * Supervisor: Professor Sang Hyun Kim
+  * Supervisor: Professor Sang Hyun Kim <br />
 
 
 * *Mar 2021 - Present*: Research Assistant
   * Center for Research in Experimental And Theoretical Economics, Yonsei University
   * Research Assistant in the Lab
-  * Participated in Economic Lab Experiments (Experiment on “Transitive Delegation and Information Acquisition”, etc)
+  * Participated in Economic Lab Experiments (Experiment on “Transitive Delegation and Information Acquisition”, etc) <br />
 
 
 * *Jun 2020 - Aug 2020*: Research Intern
