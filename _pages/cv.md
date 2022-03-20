@@ -10,42 +10,60 @@ redirect_from:
 {% include base_path %}
 
 [**Full CV**](www.youtube.com)
-<br />
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* M.A. in Economics, Yonsei University, Mar 2022 - Present
+* B.A. in Ecnomics,, Applied Statistics and Communications (Triple Major) Yonsei University, Mar 2015 - Feb 2022
+* Visiting Student in Harvard University (Summer School) - Summer 2021
+* Exchange Student in New York University, Spring 2019
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Working papers
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Research experience
+======
+* Jan 2022 - Present : Research Assistant
+  * Yonsei University
+  * 
+  * Supervisor: Professor Seung Hoon Lee
+
+* Apr 2022 - Present: Research Assistant
+  * Yonsei University
+  * Assisted in literature review and references for the book:
+  * Supervisor: Dr. Sang Woo Yang
+
+* Jun 2021 - Jan 2022: Research Assistant
+  * Yonsei University
+  * Field Research Team on analyzing Community­Driven­Development(CDD) in 1970s South Korea
+  * Participated in building and preprocessing DB of local county micro­data on CDD in 1970s
+  * Supervisor: Ph.D student Boo Kang Seol
+
+* Mar 2021 - Present: Research Assistant
+  * Yonsei University
+  * 
+  * Supervisor: Professor Sang Hyun Kim
+
+* Mar 2021 - Present: Research Assistant
+  * Center for Research in Experimental And Theoretical Economics, Yonsei University
+  * Research Assistant in the Lab
+  * Participated in Economic Lab Experiments (Experiment on “Transitive Delegation and Information Acquisition”, etc)
+
+* Jun 2020 - Aug 2020: Research Intern
+  * Center for Research in Experimental And Theoretical Economics, Yonsei University
+  * Research Assistant in the Lab
+  * Participated in Economic Lab Experiments (Experiment on “Transitive Delegation and Information Acquisition”, etc)  
+
+Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -57,6 +75,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Coding: R, Stata, Python, LaTex, Github
+* English
+  * GRE: Verbal 160, Quant 159, Analytical Writing 
+  * TOEFL: Reading , Listening, Speaking, Writing
+* Language: Korean (Native), English (Fluent), Spanish (Basic)
