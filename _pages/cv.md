@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<br />
+[**Full CV**][www.youtube.com]
+<br />
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012

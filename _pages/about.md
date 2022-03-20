@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-**Hyoung Chul Kim** 
+**Hyoung Chul (Kent) Kim** 
 
-Department of Economics 
-
-Daewoo Hall 601, Yonsei University 
-
-Seoul, Republic of Korea 
-
+Department of Economics <br />
+Daewoo Hall 601, Yonsei University <br /> 
+Seoul, Republic of Korea  <br />
+ <br />
 I am an M.A. student in the Department of Economics at Yonsei University. 
 
+Research Interests
+======
 My fields of interest are Applied Microeconomics (Regional Economics, Trade), Industrial Organizations and Media Economics.
 
 Recent Updates
