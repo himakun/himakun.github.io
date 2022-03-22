@@ -1,5 +1,5 @@
 ---
-title: "Microeconomics"
+title: "Microeconomics, Mar 2022 - Jun 2022"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2022-spring-teaching-2

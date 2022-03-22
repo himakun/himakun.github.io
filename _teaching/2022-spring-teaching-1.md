@@ -1,5 +1,5 @@
 ---
-title: "Contracts and Organization Theory"
+title: "Contracts and Organization Theory, Mar 2022 - Jun 2022"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
