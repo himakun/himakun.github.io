@@ -18,7 +18,7 @@ Seoul, Republic of Korea  <br />
 
 Research Interests
 ======
-My fields of interest are Applied Microeconomics (Regional Economics, Trade), Industrial Organizations and Media Economics.
+My fields of interest are Applied Microeconomics (Regional Economics, Trade), ...
 
 Recent Updates
 ======
