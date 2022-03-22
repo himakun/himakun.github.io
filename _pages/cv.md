@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**Full CV**](www.youtube.com)
+[**Full CV**](http://himakun.github.io/files/Kent_Kim_CV.pdf)
 
 Education
 ======
@@ -84,6 +84,6 @@ Skills
 ======
 * Coding: R, Stata, Python, LaTex, Github
 * English
-  * GRE: Verbal 160, Quant 169, Analytical Writing 
+  * GRE: Verbal 160 (85%), Quant 169 (94%), Analytical Writing 4.5 (80%) 
   * TOEFL: Reading, Listening, Speaking, Writing
 * Language: Korean (Native), English (Fluent), Spanish (Basic)
