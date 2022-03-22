@@ -1,11 +1,11 @@
 ---
-title: "Contracts and Organization Theory, Mar 2022 - Jun 2022"
+title: "News Media Economics, Sep 2021 - Dec 2021"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Yonsei University, Economics Department"
-date: 2022-03-02
+date: 2021-09-01
 location: "Seoul, South Korea"
 ---
 
-Worked as TA for Professor Sang Hyun Kim in Yonsei University.
+Worked as TA for Dr Woo Sang yang in Yonsei University.
