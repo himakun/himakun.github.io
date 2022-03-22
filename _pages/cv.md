@@ -32,41 +32,36 @@ Working papers
 
 Research experience
 ======
-* *Jan 2022 - Present*: Research Assistant
+* **Jan 2022 - Present: Research Assistant**
   * Yonsei University
   * 
   * Supervisor: Professor Seung Hoon Lee
 
 
-* *Apr 2022 - Present*: Research Assistant
+* **Apr 2022 - Present: Research Assistant**
   * Yonsei University
   * Assisted in literature review and references for the book:
   * Supervisor: Dr. Sang Woo Yang 
 
 
-* *Jun 2021 - Jan 2022*: Research Assistant
+* **Jun 2021 - Jan 2022: Research Assistant**
   * Yonsei University
   * Field Research Team on analyzing Community­Driven­Development(CDD) in 1970s South Korea
   * Participated in building and preprocessing DB of local county micro­data on CDD in 1970s
   * Supervisor: Ph.D student Boo Kang Seol 
 
 
-* *Mar 2021 - Present*: Research Assistant
+* **Mar 2021 - Present*: Research Assistant**
   * Yonsei University
   * 
   * Supervisor: Professor Sang Hyun Kim
 
 
-* *Mar 2021 - Present*: Research Assistant
+* **Mar 2021 - Present*: Research Assistant**
   * Center for Research in Experimental And Theoretical Economics, Yonsei University
   * Research Assistant in the Lab
   * Participated in Economic Lab Experiments (Experiment on “Transitive Delegation and Information Acquisition”, etc)
 
-
-* *Jun 2020 - Aug 2020*: Research Intern
-  * Center for Research in Experimental And Theoretical Economics, Yonsei University
-  * Research Assistant in the Lab
-  * Participated in Economic Lab Experiments (Experiment on “Transitive Delegation and Information Acquisition”, etc)  
 
 Presentations
 ======
@@ -74,12 +69,14 @@ Presentations
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+  
 Teaching Experience (TA)
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Skills
 ======
 * Coding: R, Stata, Python, LaTex, Github
