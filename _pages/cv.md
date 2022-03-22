@@ -51,13 +51,13 @@ Research experience
   * Supervisor: Ph.D student Boo Kang Seol 
 
 
-* **Mar 2021 - Present*: Research Assistant**
+* **Mar 2021 - Present: Research Assistant**
   * Yonsei University
   * 
   * Supervisor: Professor Sang Hyun Kim
 
 
-* **Mar 2021 - Present*: Research Assistant**
+* **Mar 2021 - Present: Research Assistant**
   * Center for Research in Experimental And Theoretical Economics, Yonsei University
   * Research Assistant in the Lab
   * Participated in Economic Lab Experiments (Experiment on “Transitive Delegation and Information Acquisition”, etc)
