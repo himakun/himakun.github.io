@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[**Full CV**](http://himakun.github.io/files/Kent_Kim_CV.pdf)
+[**Full CV** (Updated: Mar 2022)](http://himakun.github.io/files/kim_cv.pdf)
 
 Education
 ======
