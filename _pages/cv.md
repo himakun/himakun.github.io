@@ -38,12 +38,6 @@ Research experience
   * Supervisor: Professor Seung Hoon Lee
 
 
-* **Apr 2022 - Present: Research Assistant**
-  * Yonsei University
-  * Assisted in literature review and references for the book:
-  * Supervisor: Dr. Sang Woo Yang 
-
-
 * **Jun 2021 - Jan 2022: Research Assistant**
   * Yonsei University
   * Field Research Team on analyzing Community­Driven­Development(CDD) in 1970s South Korea
