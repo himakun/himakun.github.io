@@ -22,4 +22,4 @@ My fields of interest are Applied Microeconomics (Regional Economics, Trade), ..
 
 Recent Updates
 ======
-Slides for my presentation("The Well-Being of Cities") on Apr 28 2022 at Yonsei University Workshop are now up!
+My working paper on "Impact of Air Pollution on Subjective Well-Being and Health Behaviors: Evidence from a Cross-sectional Study in South Korea" is now up!
